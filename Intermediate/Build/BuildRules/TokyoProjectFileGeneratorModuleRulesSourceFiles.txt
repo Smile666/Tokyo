@@ -297,7 +297,9 @@ C:\Program Files\Unreal Engine\4.4\Engine\Plugins\Script\ScriptEditorPlugin\Sour
 C:\Program Files\Unreal Engine\4.4\Engine\Plugins\Script\ScriptGeneratorPlugin\Source\ScriptGeneratorPlugin\ScriptGeneratorPlugin.Build.cs
 C:\Program Files\Unreal Engine\4.4\Engine\Plugins\Script\ScriptPlugin\Source\ScriptPlugin\ScriptPlugin.Build.cs
 C:\Program Files\Unreal Engine\4.4\Engine\Plugins\Slate\SlateRemote\Source\SlateRemote\SlateRemote.Build.cs
-C:\Users\Evgeny\Documents\Unreal Projects\Tokyo\Source\Tokyo\Tokyo.Build.cs
+C:\Dgek\Tokyo\Source\Tokyo\Tokyo.Build.cs
 C:\Program Files\Unreal Engine\4.4\Engine\Source\UE4Game.Target.cs
-C:\Users\Evgeny\Documents\Unreal Projects\Tokyo\Source\Tokyo.Target.cs
+C:\Dgek\Tokyo\Source\Tokyo.Target.cs
+C:\Dgek\Tokyo\Source\TokyoEditor.Target.cs
+Source\Tokyo.Target.cs
 C:\Users\Evgeny\Documents\Unreal Projects\Tokyo\Source\TokyoEditor.Target.cs
