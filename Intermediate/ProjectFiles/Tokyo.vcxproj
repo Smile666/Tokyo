@@ -51,12 +51,16 @@
 		<None Include="..\..\Config\DefaultEngine.ini" />
 		<None Include="..\..\Config\DefaultGame.ini" />
 		<None Include="..\..\Config\DefaultInput.ini" />
+		<ClCompile Include="..\..\Source\Tokyo\FireBomb.cpp" />
+		<ClInclude Include="..\..\Source\Tokyo\FireBomb.h" />
 		<ClCompile Include="..\..\Source\Tokyo\PlayerCharacter.cpp" />
 		<ClInclude Include="..\..\Source\Tokyo\PlayerCharacter.h" />
 		<ClCompile Include="..\..\Source\Tokyo\PlayingGameMode.cpp" />
 		<ClInclude Include="..\..\Source\Tokyo\PlayingGameMode.h" />
 		<ClCompile Include="..\..\Source\Tokyo\PlayingHUD.cpp" />
 		<ClInclude Include="..\..\Source\Tokyo\PlayingHUD.h" />
+		<ClCompile Include="..\..\Source\Tokyo\Projectile.cpp" />
+		<ClInclude Include="..\..\Source\Tokyo\Projectile.h" />
 		<None Include="..\..\Source\Tokyo\Tokyo.Build.cs" />
 		<ClCompile Include="..\..\Source\Tokyo\Tokyo.cpp" />
 		<ClInclude Include="..\..\Source\Tokyo\Tokyo.h" />

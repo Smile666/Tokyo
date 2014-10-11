@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\Tokyo.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{43207F20-78B5-4204-935D-43A9A7E9098C}</UniqueIdentifier>
+			<UniqueIdentifier>{6D099CD0-A947-4FB2-A863-A1A4E99BA30D}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Tokyo.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{444EA0D2-FF60-4835-B7E5-8A69224EB807}</UniqueIdentifier>
+			<UniqueIdentifier>{8C8A188C-37A6-4412-AC2A-11026332BF3C}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -28,8 +28,14 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\Tokyo">
-			<UniqueIdentifier>{F71083B3-24AD-4BBE-BFB2-E6435FBCFAC5}</UniqueIdentifier>
+			<UniqueIdentifier>{E983F66A-1763-4161-9224-C7CD79FE6924}</UniqueIdentifier>
 		</Filter>
+		<ClCompile Include="..\..\Source\Tokyo\FireBomb.cpp">
+			<Filter>Source\Tokyo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Tokyo\FireBomb.h">
+			<Filter>Source\Tokyo</Filter>
+		</ClInclude >
 		<ClCompile Include="..\..\Source\Tokyo\PlayerCharacter.cpp">
 			<Filter>Source\Tokyo</Filter>
 		</ClCompile >
@@ -46,6 +52,12 @@
 			<Filter>Source\Tokyo</Filter>
 		</ClCompile >
 		<ClInclude Include="..\..\Source\Tokyo\PlayingHUD.h">
+			<Filter>Source\Tokyo</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Tokyo\Projectile.cpp">
+			<Filter>Source\Tokyo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Tokyo\Projectile.h">
 			<Filter>Source\Tokyo</Filter>
 		</ClInclude >
 		<None Include="..\..\Source\Tokyo\Tokyo.Build.cs">
@@ -70,10 +82,10 @@
 			<Filter>Source\Tokyo</Filter>
 		</ClInclude >
 		<Filter Include="Source\Tokyo\Resources">
-			<UniqueIdentifier>{5E4D0CE5-2717-44ED-891B-290A841A8CC4}</UniqueIdentifier>
+			<UniqueIdentifier>{8E7872E3-568A-4C58-BFED-866D3F4111D9}</UniqueIdentifier>
 		</Filter>
 		<Filter Include="Source\Tokyo\Resources\Windows">
-			<UniqueIdentifier>{E8AA85AE-1DF0-41D9-BB1A-2BAAA2DAA84C}</UniqueIdentifier>
+			<UniqueIdentifier>{BF894CB1-3B6B-419D-8E8E-47D8982B4325}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Tokyo\Resources\Windows\Tokyo.ico">
 			<Filter>Source\Tokyo\Resources\Windows</Filter>

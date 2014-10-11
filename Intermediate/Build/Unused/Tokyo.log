@@ -1,10 +1,19 @@
-﻿Build started 11.10.2014 2:48:05.
-     1>Project "C:\Dgek\Tokyo\Intermediate\ProjectFiles\Tokyo.vcxproj" on node 2 (Clean target(s)).
-     1>CoreClean:
-         "C:\Program Files\Unreal Engine\4.4\Engine\Build\BatchFiles\Clean.bat" TokyoEditor Win64 Development "C:\Dgek\Tokyo\Tokyo.uproject" -rocket
-         Cleaning TokyoEditor Binaries...
-     1>Done Building Project "C:\Dgek\Tokyo\Intermediate\ProjectFiles\Tokyo.vcxproj" (Clean target(s)).
+﻿Build started 12.10.2014 2:31:24.
+     1>Project "C:\Dgek\Tokyo\Intermediate\ProjectFiles\Tokyo.vcxproj" on node 2 (Build target(s)).
+     1>Build:
+         "C:\Program Files\Unreal Engine\4.4\Engine\Build\BatchFiles\Build.bat" TokyoEditor Win64 Development "C:\Dgek\Tokyo\Tokyo.uproject" -rocket
+         Parsing headers for TokyoEditor
+     1>LogTextLocalizationManager : warning : The selected culture 'ru_RU' is not available; falling back to 'en'
+         Reflection code generation finished for TokyoEditor and took 1,758
+         Performing 2 actions (max 4 parallel jobs)
+         PlayingHUD.cpp
+         [2/2] link.exe UE4Editor-Tokyo.dll
+            Creating library C:\Dgek\Tokyo\Intermediate\Build\Win64\TokyoEditor\Development\UE4Editor-Tokyo.lib and object C:\Dgek\Tokyo\Intermediate\Build\Win64\TokyoEditor\Development\UE4Editor-Tokyo.exp
+         -------- End Detailed Actions Stats -----------------------------------------------------------
+         Cumulative action seconds (8 processors): 0,00 building projects, 0,31 compiling, 0,00 creating app bundles, 0,00 generating debug info, 0,42 linking, 0,00 other
+         UBT execution time: 5,89 seconds
+     1>Done Building Project "C:\Dgek\Tokyo\Intermediate\ProjectFiles\Tokyo.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.21
+Time Elapsed 00:00:06.00
