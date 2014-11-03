@@ -13,6 +13,6 @@ class TOKYO_API ATokyoGameMode : public AGameMode
 {
 	GENERATED_UCLASS_BODY()
 
-	virtual void StartPlay() override;
+	
 	
 };
